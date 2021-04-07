@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Rhymond/api-demo/utils"
+	"github.com/couchbasecloud/apidemo/utils"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Rhymond/api-demo/client"
+	"github.com/couchbasecloud/apidemo/client"
 )
 
 func NewClient() *client.Client {

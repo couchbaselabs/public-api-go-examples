@@ -1,4 +1,4 @@
-module github.com/Rhymond/api-demo
+module github.com/couchbasecloud/apidemo
 
 go 1.15
 

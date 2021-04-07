@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Rhymond/api-demo/utils"
+	"github.com/couchbasecloud/apidemo/utils"
 )
 
 func main() {

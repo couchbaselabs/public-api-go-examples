@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Rhymond/api-demo/utils"
+	"github.com/couchbasecloud/apidemo/utils"
 )
 
 type ProjectCreatePayload struct {
